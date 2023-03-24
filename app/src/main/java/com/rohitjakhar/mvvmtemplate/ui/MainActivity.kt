@@ -1,4 +1,4 @@
-package com.rohitjakhar.mvvmtemplate.presentation
+package com.rohitjakhar.mvvmtemplate.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

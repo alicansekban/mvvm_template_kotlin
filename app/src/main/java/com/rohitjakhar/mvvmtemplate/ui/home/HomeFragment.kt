@@ -1,4 +1,4 @@
-package com.rohitjakhar.mvvmtemplate.presentation.home
+package com.rohitjakhar.mvvmtemplate.ui.home
 
 import android.os.Bundle
 import android.view.LayoutInflater
