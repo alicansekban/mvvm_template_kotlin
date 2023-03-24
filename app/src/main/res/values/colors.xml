@@ -11,6 +11,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="line_color">#0cf4f4f4</color>
     <color name="delete_list_red">#ff6855</color>
+    <color name="page_background">#111111</color>
+    <color name="text_color">#FFFFFF</color>
     <color name="lineColorWhite">#F4F4F4</color>
     <color name="grey">#3C3E48</color>
     <color name="text_color_50">#803C3E48</color>
